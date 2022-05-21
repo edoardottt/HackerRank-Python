@@ -2,7 +2,7 @@
 
 Some HackerRank challenges I solved using Python3
 
-[hackerrank.com/edoardottt](https://www.hackerrank.com/edoardottt)
+[HackerRank.com/edoardottt](https://www.hackerrank.com/edoardottt)
 
 Contributing 🛠
 -------
